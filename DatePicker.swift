@@ -6,13 +6,13 @@ import UIKit
     case Wheel, Inline, Compact
 }
 
-enum SPickerType {
+enum PickerType {
     case date, option
 }
 
-@objc open class SPicker: NSObject {
+@objc open class Picker: NSObject {
     
-    private static let sharedInstance = SPicker()
+    private static let sharedInstance = Picker()
     private var isPresented = false
     
     /**
