@@ -1,7 +1,10 @@
 # DatePicker
 
 # Example
-  
+          /*
+            Only for iOS 14 and above
+          */
+          
           var date = ""
           var time = ""
          
