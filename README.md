@@ -1,6 +1,6 @@
 # DatePicker
 
-##Example
+# Example
   
           var date = ""
           var time = ""
